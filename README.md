@@ -1,6 +1,6 @@
 # BlobHelper
 
-BlobHelper is a common, consistent storage interface for Microsoft Azure, Amazon S3, S3 compatible storage (i.e. Minio, Less3), Kvpbase, and local filesystem written in C#.
+BlobHelpers is a common, consistent storage interface for Microsoft Azure, Amazon S3, S3 compatible storage (i.e. Minio, Less3), Kvpbase, and local filesystem written in C#.
 
 [![NuGet Version](https://img.shields.io/nuget/v/BlobHelper.svg?style=flat)](https://www.nuget.org/packages/BlobHelper/) [![NuGet](https://img.shields.io/nuget/dt/BlobHelper.svg)](https://www.nuget.org/packages/BlobHelper) 
 
